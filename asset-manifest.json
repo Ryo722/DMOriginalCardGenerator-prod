@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DMOriginalCardGenerator-prod/static/css/main.7562498e.css",
-    "main.js": "/DMOriginalCardGenerator-prod/static/js/main.652b35d2.js",
+    "main.js": "/DMOriginalCardGenerator-prod/static/js/main.9413163b.js",
     "static/media/LINESeedJP_TTF_Bd.ttf": "/DMOriginalCardGenerator-prod/static/media/LINESeedJP_TTF_Bd.736364b01f7d9550ff1f.ttf",
     "static/media/LINESeedJP_TTF_Rg.ttf": "/DMOriginalCardGenerator-prod/static/media/LINESeedJP_TTF_Rg.e5a878051ee195cb5f81.ttf",
     "static/media/evoGray.svg": "/DMOriginalCardGenerator-prod/static/media/evoGray.f802a362b9d9314f6f10f07fb5796a06.svg",
@@ -25,10 +25,10 @@
     "static/media/blocker.svg": "/DMOriginalCardGenerator-prod/static/media/blocker.73116a6e0c0fc5474f840b6cc8bd0b0a.svg",
     "static/media/st.svg": "/DMOriginalCardGenerator-prod/static/media/st.63856502d2ff2985b942636e87ee85f0.svg",
     "main.7562498e.css.map": "/DMOriginalCardGenerator-prod/static/css/main.7562498e.css.map",
-    "main.652b35d2.js.map": "/DMOriginalCardGenerator-prod/static/js/main.652b35d2.js.map"
+    "main.9413163b.js.map": "/DMOriginalCardGenerator-prod/static/js/main.9413163b.js.map"
   },
   "entrypoints": [
     "static/css/main.7562498e.css",
-    "static/js/main.652b35d2.js"
+    "static/js/main.9413163b.js"
   ]
 }
