@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DMOriginalCardGenerator-prod/static/css/main.bba2fdaa.css",
-    "main.js": "/DMOriginalCardGenerator-prod/static/js/main.3a166c1e.js",
+    "main.css": "/DMOriginalCardGenerator-prod/static/css/main.1dd22f5c.css",
+    "main.js": "/DMOriginalCardGenerator-prod/static/js/main.8ecdd481.js",
     "static/media/LINESeedJP_TTF_Bd.ttf": "/DMOriginalCardGenerator-prod/static/media/LINESeedJP_TTF_Bd.736364b01f7d9550ff1f.ttf",
     "static/media/LINESeedJP_TTF_Rg.ttf": "/DMOriginalCardGenerator-prod/static/media/LINESeedJP_TTF_Rg.e5a878051ee195cb5f81.ttf",
     "static/media/evoGray.svg": "/DMOriginalCardGenerator-prod/static/media/evoGray.f802a362b9d9314f6f10f07fb5796a06.svg",
@@ -11,6 +11,7 @@
     "static/media/evoUltra.svg": "/DMOriginalCardGenerator-prod/static/media/evoUltra.23d7d752f16fa87f4e90093844c31aca.svg",
     "static/media/evo.svg": "/DMOriginalCardGenerator-prod/static/media/evo.d8f0d6dd78f67b0f2f4fd3860344dc9c.svg",
     "static/media/dm4.svg": "/DMOriginalCardGenerator-prod/static/media/dm4.124735c126a75387a55659df3bdcd8ba.svg",
+    "static/media/twinImpactFrame.svg": "/DMOriginalCardGenerator-prod/static/media/twinImpactFrame.124735c126a75387a55659df3bdcd8ba.svg",
     "static/media/6.svg": "/DMOriginalCardGenerator-prod/static/media/6.a32b936a7d5f239378cf1efaee5e335d.svg",
     "static/media/9.svg": "/DMOriginalCardGenerator-prod/static/media/9.c3ef08bb2091f959938982004876a1bf.svg",
     "static/media/3.svg": "/DMOriginalCardGenerator-prod/static/media/3.4732c0869e620f1ffb496994ea79c173.svg",
@@ -24,11 +25,11 @@
     "index.html": "/DMOriginalCardGenerator-prod/index.html",
     "static/media/blocker.svg": "/DMOriginalCardGenerator-prod/static/media/blocker.73116a6e0c0fc5474f840b6cc8bd0b0a.svg",
     "static/media/st.svg": "/DMOriginalCardGenerator-prod/static/media/st.63856502d2ff2985b942636e87ee85f0.svg",
-    "main.bba2fdaa.css.map": "/DMOriginalCardGenerator-prod/static/css/main.bba2fdaa.css.map",
-    "main.3a166c1e.js.map": "/DMOriginalCardGenerator-prod/static/js/main.3a166c1e.js.map"
+    "main.1dd22f5c.css.map": "/DMOriginalCardGenerator-prod/static/css/main.1dd22f5c.css.map",
+    "main.8ecdd481.js.map": "/DMOriginalCardGenerator-prod/static/js/main.8ecdd481.js.map"
   },
   "entrypoints": [
-    "static/css/main.bba2fdaa.css",
-    "static/js/main.3a166c1e.js"
+    "static/css/main.1dd22f5c.css",
+    "static/js/main.8ecdd481.js"
   ]
 }
